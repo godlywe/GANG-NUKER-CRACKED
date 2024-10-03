@@ -1,0 +1,47 @@
+{
+    "threads": 20,
+    "generate_password": true,
+    "Display_proxy_errors": false,
+    "user:pass@ip:port format": false,
+
+    "capmonster_key": "PASTE CAPMONSTER API KEY HERE",
+
+    "anticaptcha_api_key": "PASTE ANTI-CAPTCHA API KEY HERE",
+    "capmonster_api_key": "PASTE CAPMONSTER API KEY HERE",
+    "2captcha_API_key": "PASTE 2CAPTCHA API KEY HERE",
+    "invisiFox_API_key": "PASTE INVISIFOX API KEY HERE",
+
+    "use_2captcha": false,
+    "use_capmonster": true,
+    "use_InvisiFox": false,
+
+    "use_hotmailbox": false,
+    "hotmailbox_API": "PASTE HOTBOXMAIL API KEY HERE",
+
+    "5sim_API": "PASTE 5SIM API KEY HERE",
+    "use_5sim": false,
+    "5sim_country": "UK",
+    "5sim_op": "any",
+
+    "proxy": {
+        "protocol": "http",
+        "proxyless": true
+    },
+    "joiner": {
+        "useDelays": false,
+        "delay": 20,
+        "bypassMembershipScreening": false,
+        "bypassReactionVerification": false
+    },
+    "removeDeadTokens": true,
+    "preferedThreads": 100,
+    "requestTimeout": 35,
+    "traceback": false,
+
+    "capmonster_use_proxies": false,
+    "password": "GANGNUKERGEN!!@@",
+    "Date_of_birth": "1990-06-02",
+
+    "Join_Server_On_Creation": false,
+    "Server_Invite": "A872XPXz"
+}
